@@ -114,6 +114,11 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240413_008.JPG" data-lightbox="abc"><img src="20240413_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240413_009.JPG" data-lightbox="abc"><img src="20240413_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240413_010.JPG" data-lightbox="abc"><img src="20240413_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240413_011.JPG" data-lightbox="abc"><img src="20240413_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240413_012.JPG" data-lightbox="abc"><img src="20240413_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240413_013.JPG" data-lightbox="abc"><img src="20240413_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240413_014.JPG" data-lightbox="abc"><img src="20240413_014.JPG" alt="サンプル画像" width="900" /></a>
+
 <p>今回のルート、クリックで地図が開きます。</p>
 <a href="https://maps.app.goo.gl/85uDkGGDXfFUh1jYA" target="_blank"><img src="20240413_000.png" alt="サンプル画像" width="900" /></a>
 
