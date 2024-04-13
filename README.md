@@ -122,6 +122,8 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240413_016.JPG" data-lightbox="abc"><img src="20240413_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240413_017.JPG" data-lightbox="abc"><img src="20240413_017.JPG" alt="サンプル画像" width="900" /></a>
 <iframe width="560" height="630" src="https://www.youtube.com/embed/3h-O_a36a2o?si=HY1aDmw-SweWYxdT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+<iframe width="560" height="630" src="https://www.youtube.com/embed/q7JONVYFKDs?si=RcAM27Y2yg9VaRSS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p>今回のルート、クリックで地図が開きます。</p>
 <a href="https://maps.app.goo.gl/85uDkGGDXfFUh1jYA" target="_blank"><img src="20240413_000.png" alt="サンプル画像" width="900" /></a>
 
