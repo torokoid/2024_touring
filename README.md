@@ -85,7 +85,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <body onload="alert('65歳まで、よく頑張りました！　まだまだ元気に〜〜(^o^)/')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
 -->
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2024Mar24_Utsunomiya_Sakura !!!</marquee></span></h1><!--
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2024Apr13_Mr.Hamada_Touring !!!</marquee></span></h1><!--
 <p><a href="https://torokoid.github.io/home">Home</a>><a href="https://torokoid.github.io/oizumi">2019年同期会</a>><a href="https://torokoid.github.io/kanreki">還暦祝い＠池袋</a>><a href="https://torokoid.github.io/shiba">写真集</a>>>><a href="https://torokoid.github.io/oizumi_jigo"><span class="blinking">鹿児島支部情報</span></a><br>2024,同期会</p>-->
 
 <p class="note">
@@ -95,7 +95,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <p align="left"> <span class="yellow">&nbsp;祝！65歳</span></p>-->
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
 <br><br>
-<p align="left"> <img src="touring.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="2024_touring.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2024年4月13日、浜田さんツーリング　!!!</marquee></span></h2>
 <!--
