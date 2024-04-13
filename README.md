@@ -114,7 +114,8 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240413_008.JPG" data-lightbox="abc"><img src="20240413_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240413_009.JPG" data-lightbox="abc"><img src="20240413_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240413_010.JPG" data-lightbox="abc"><img src="20240413_010.JPG" alt="サンプル画像" width="900" /></a>
-
+<p>今回のルート</p>
+<a href="20240413_000.png" data-lightbox="abc"><img src="20240413_000.png" alt="サンプル画像" width="900" /></a>
 
 
 
